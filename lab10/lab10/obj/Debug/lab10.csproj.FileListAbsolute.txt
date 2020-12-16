@@ -1,0 +1,13 @@
+D:\проекти\lab10\lab10\bin\Debug\lab10.exe.config
+D:\проекти\lab10\lab10\bin\Debug\lab10.exe
+D:\проекти\lab10\lab10\bin\Debug\lab10.pdb
+D:\проекти\lab10\lab10\obj\Debug\lab10.csprojAssemblyReference.cache
+D:\проекти\lab10\lab10\obj\Debug\lab10.exe
+D:\проекти\lab10\lab10\obj\Debug\lab10.pdb
+C:\For system\tasks\Student_Bohdan_cSharp_Labs_PD-22\lab10\lab10\bin\Debug\lab10.exe.config
+C:\For system\tasks\Student_Bohdan_cSharp_Labs_PD-22\lab10\lab10\bin\Debug\lab10.exe
+C:\For system\tasks\Student_Bohdan_cSharp_Labs_PD-22\lab10\lab10\bin\Debug\lab10.pdb
+C:\For system\tasks\Student_Bohdan_cSharp_Labs_PD-22\lab10\lab10\obj\Debug\lab10.csprojAssemblyReference.cache
+C:\For system\tasks\Student_Bohdan_cSharp_Labs_PD-22\lab10\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+C:\For system\tasks\Student_Bohdan_cSharp_Labs_PD-22\lab10\lab10\obj\Debug\lab10.exe
+C:\For system\tasks\Student_Bohdan_cSharp_Labs_PD-22\lab10\lab10\obj\Debug\lab10.pdb
