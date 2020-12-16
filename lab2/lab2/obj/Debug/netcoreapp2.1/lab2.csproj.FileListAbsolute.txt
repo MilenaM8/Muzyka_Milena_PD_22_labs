@@ -1,0 +1,21 @@
+D:\проекти\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.deps.json
+D:\проекти\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.runtimeconfig.json
+D:\проекти\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.runtimeconfig.dev.json
+D:\проекти\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.dll
+D:\проекти\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.pdb
+D:\проекти\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.csprojAssemblyReference.cache
+D:\проекти\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.csproj.CoreCompileInputs.cache
+D:\проекти\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.AssemblyInfoInputs.cache
+D:\проекти\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.AssemblyInfo.cs
+D:\проекти\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.dll
+D:\проекти\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.pdb
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.deps.json
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.runtimeconfig.json
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.runtimeconfig.dev.json
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.dll
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.pdb
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.csprojAssemblyReference.cache
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.AssemblyInfoInputs.cache
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.AssemblyInfo.cs
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.dll
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.pdb

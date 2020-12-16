@@ -1,0 +1,13 @@
+D:\проекти\lab1\lab1\bin\Debug\lab1.exe.config
+D:\проекти\lab1\lab1\bin\Debug\lab1.exe
+D:\проекти\lab1\lab1\bin\Debug\lab1.pdb
+D:\проекти\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+D:\проекти\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\проекти\lab1\lab1\obj\Debug\lab1.exe
+D:\проекти\lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\38098\OneDrive\Рабочий стол\Student_Bohdan_cSharp_Labs_PD-22\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\38098\OneDrive\Рабочий стол\Student_Bohdan_cSharp_Labs_PD-22\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\38098\OneDrive\Рабочий стол\Student_Bohdan_cSharp_Labs_PD-22\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\38098\OneDrive\Рабочий стол\Student_Bohdan_cSharp_Labs_PD-22\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\38098\OneDrive\Рабочий стол\Student_Bohdan_cSharp_Labs_PD-22\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\38098\OneDrive\Рабочий стол\Student_Bohdan_cSharp_Labs_PD-22\lab1\lab1\obj\Debug\lab1.pdb
