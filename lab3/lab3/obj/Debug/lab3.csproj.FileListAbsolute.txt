@@ -1,0 +1,19 @@
+D:\проекти\lab3\lab3\bin\Debug\lab3.exe.config
+D:\проекти\lab3\lab3\bin\Debug\lab3.exe
+D:\проекти\lab3\lab3\bin\Debug\lab3.pdb
+D:\проекти\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+D:\проекти\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\проекти\lab3\lab3\obj\Debug\lab3.exe
+D:\проекти\lab3\lab3\obj\Debug\lab3.pdb
+C:\For system\tasks\тест\навч\Csharp labs\lab3\lab3\bin\Debug\lab3.exe.config
+C:\For system\tasks\тест\навч\Csharp labs\lab3\lab3\bin\Debug\lab3.exe
+C:\For system\tasks\тест\навч\Csharp labs\lab3\lab3\bin\Debug\lab3.pdb
+C:\For system\tasks\тест\навч\Csharp labs\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\For system\tasks\тест\навч\Csharp labs\lab3\lab3\obj\Debug\lab3.exe
+C:\For system\tasks\тест\навч\Csharp labs\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\38098\OneDrive\Рабочий стол\Student_Bohdan_cSharp_Labs_PD-22\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\38098\OneDrive\Рабочий стол\Student_Bohdan_cSharp_Labs_PD-22\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\38098\OneDrive\Рабочий стол\Student_Bohdan_cSharp_Labs_PD-22\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\38098\OneDrive\Рабочий стол\Student_Bohdan_cSharp_Labs_PD-22\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\38098\OneDrive\Рабочий стол\Student_Bohdan_cSharp_Labs_PD-22\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\38098\OneDrive\Рабочий стол\Student_Bohdan_cSharp_Labs_PD-22\lab3\lab3\obj\Debug\lab3.pdb

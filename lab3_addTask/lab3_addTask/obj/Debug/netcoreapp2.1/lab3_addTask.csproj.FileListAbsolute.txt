@@ -1,0 +1,21 @@
+D:\проекти\lab3_addTask\lab3_addTask\bin\Debug\netcoreapp2.1\lab3_addTask.deps.json
+D:\проекти\lab3_addTask\lab3_addTask\bin\Debug\netcoreapp2.1\lab3_addTask.runtimeconfig.json
+D:\проекти\lab3_addTask\lab3_addTask\bin\Debug\netcoreapp2.1\lab3_addTask.runtimeconfig.dev.json
+D:\проекти\lab3_addTask\lab3_addTask\bin\Debug\netcoreapp2.1\lab3_addTask.dll
+D:\проекти\lab3_addTask\lab3_addTask\bin\Debug\netcoreapp2.1\lab3_addTask.pdb
+D:\проекти\lab3_addTask\lab3_addTask\obj\Debug\netcoreapp2.1\lab3_addTask.csprojAssemblyReference.cache
+D:\проекти\lab3_addTask\lab3_addTask\obj\Debug\netcoreapp2.1\lab3_addTask.csproj.CoreCompileInputs.cache
+D:\проекти\lab3_addTask\lab3_addTask\obj\Debug\netcoreapp2.1\lab3_addTask.AssemblyInfoInputs.cache
+D:\проекти\lab3_addTask\lab3_addTask\obj\Debug\netcoreapp2.1\lab3_addTask.AssemblyInfo.cs
+D:\проекти\lab3_addTask\lab3_addTask\obj\Debug\netcoreapp2.1\lab3_addTask.dll
+D:\проекти\lab3_addTask\lab3_addTask\obj\Debug\netcoreapp2.1\lab3_addTask.pdb
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\lab3_addTask\lab3_addTask\bin\Debug\netcoreapp2.1\lab3_addTask.deps.json
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\lab3_addTask\lab3_addTask\bin\Debug\netcoreapp2.1\lab3_addTask.runtimeconfig.json
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\lab3_addTask\lab3_addTask\bin\Debug\netcoreapp2.1\lab3_addTask.runtimeconfig.dev.json
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\lab3_addTask\lab3_addTask\bin\Debug\netcoreapp2.1\lab3_addTask.dll
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\lab3_addTask\lab3_addTask\bin\Debug\netcoreapp2.1\lab3_addTask.pdb
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\lab3_addTask\lab3_addTask\obj\Debug\netcoreapp2.1\lab3_addTask.csprojAssemblyReference.cache
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\lab3_addTask\lab3_addTask\obj\Debug\netcoreapp2.1\lab3_addTask.AssemblyInfoInputs.cache
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\lab3_addTask\lab3_addTask\obj\Debug\netcoreapp2.1\lab3_addTask.AssemblyInfo.cs
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\lab3_addTask\lab3_addTask\obj\Debug\netcoreapp2.1\lab3_addTask.dll
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\lab3_addTask\lab3_addTask\obj\Debug\netcoreapp2.1\lab3_addTask.pdb
