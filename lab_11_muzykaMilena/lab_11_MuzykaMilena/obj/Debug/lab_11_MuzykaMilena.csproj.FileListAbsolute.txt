@@ -1,0 +1,7 @@
+C:\Users\38098\OneDrive\Рабочий стол\lab_11_studentBohdan\lab_11_studentBohdan\bin\Debug\lab_11_studentBohdan.exe.config
+C:\Users\38098\OneDrive\Рабочий стол\lab_11_studentBohdan\lab_11_studentBohdan\bin\Debug\lab_11_studentBohdan.exe
+C:\Users\38098\OneDrive\Рабочий стол\lab_11_studentBohdan\lab_11_studentBohdan\bin\Debug\lab_11_studentBohdan.pdb
+C:\Users\38098\OneDrive\Рабочий стол\lab_11_studentBohdan\lab_11_studentBohdan\obj\Debug\lab_11_studentBohdan.csprojAssemblyReference.cache
+C:\Users\38098\OneDrive\Рабочий стол\lab_11_studentBohdan\lab_11_studentBohdan\obj\Debug\lab_11_studentBohdan.csproj.CoreCompileInputs.cache
+C:\Users\38098\OneDrive\Рабочий стол\lab_11_studentBohdan\lab_11_studentBohdan\obj\Debug\lab_11_studentBohdan.exe
+C:\Users\38098\OneDrive\Рабочий стол\lab_11_studentBohdan\lab_11_studentBohdan\obj\Debug\lab_11_studentBohdan.pdb

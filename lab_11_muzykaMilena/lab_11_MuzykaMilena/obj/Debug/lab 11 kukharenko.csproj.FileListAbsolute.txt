@@ -1,0 +1,13 @@
+C:\Users\326\source\repos\lab 11 kukharenko\lab 11 kukharenko\bin\Debug\lab 11 kukharenko.exe.config
+C:\Users\326\source\repos\lab 11 kukharenko\lab 11 kukharenko\bin\Debug\lab 11 kukharenko.exe
+C:\Users\326\source\repos\lab 11 kukharenko\lab 11 kukharenko\bin\Debug\lab 11 kukharenko.pdb
+C:\Users\326\source\repos\lab 11 kukharenko\lab 11 kukharenko\obj\Debug\lab 11 kukharenko.csprojAssemblyReference.cache
+C:\Users\326\source\repos\lab 11 kukharenko\lab 11 kukharenko\obj\Debug\lab 11 kukharenko.csproj.CoreCompileInputs.cache
+C:\Users\326\source\repos\lab 11 kukharenko\lab 11 kukharenko\obj\Debug\lab 11 kukharenko.exe
+C:\Users\326\source\repos\lab 11 kukharenko\lab 11 kukharenko\obj\Debug\lab 11 kukharenko.pdb
+C:\Users\ASUS\Desktop\lab 11 kukharenko\lab 11 kukharenko\bin\Debug\lab 11 kukharenko.exe.config
+C:\Users\ASUS\Desktop\lab 11 kukharenko\lab 11 kukharenko\bin\Debug\lab 11 kukharenko.exe
+C:\Users\ASUS\Desktop\lab 11 kukharenko\lab 11 kukharenko\bin\Debug\lab 11 kukharenko.pdb
+C:\Users\ASUS\Desktop\lab 11 kukharenko\lab 11 kukharenko\obj\Debug\lab 11 kukharenko.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\lab 11 kukharenko\lab 11 kukharenko\obj\Debug\lab 11 kukharenko.exe
+C:\Users\ASUS\Desktop\lab 11 kukharenko\lab 11 kukharenko\obj\Debug\lab 11 kukharenko.pdb

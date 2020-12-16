@@ -1,0 +1,49 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace lab_11_muzykaMilena{
+    delegate bool MuzykaPredicateDelegate(Muzyka Muzyka);
+
+    class Muzyka   {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+
+        private int age;
+        public int Age {
+            get { return age; }
+            set
+            {
+                if (value < 0) age = 17;
+                else { age = value; }
+            }
+        }
+
+        public Muzyka(string firstName, string lastName, int age)
+        {
+            FirstName = firstName;
+            LastName = lastName;
+            Age = age;
+        }
+
+        public static bool Adult(Muzyka Muzyka)
+        {
+            if (muzyka.Age >= 18) return true;
+            return false;
+        }
+
+        public static bool FirstSymbolIsA(Muzyka Muzyka)
+        {
+            if (muzyka.FirstName[0] == 'A') return true;
+            return false;
+        }
+
+        public static bool LongLastName(Muzyka Muzyka)
+        {
+            if (muzyka.LastName.Length > 3) return true;
+            return false;
+        }
+    }
+}
