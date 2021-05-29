@@ -1,0 +1,30 @@
+C:\Projects\C#\two-sem\test-wpf\test-wpf\bin\Debug\test-wpf.exe.config
+C:\Projects\C#\two-sem\test-wpf\test-wpf\bin\Debug\test-wpf.exe
+C:\Projects\C#\two-sem\test-wpf\test-wpf\bin\Debug\test-wpf.pdb
+C:\Projects\C#\two-sem\test-wpf\test-wpf\obj\Debug\test-wpf.csprojAssemblyReference.cache
+C:\Projects\C#\two-sem\test-wpf\test-wpf\obj\Debug\MainWindow.g.cs
+C:\Projects\C#\two-sem\test-wpf\test-wpf\obj\Debug\App.g.cs
+C:\Projects\C#\two-sem\test-wpf\test-wpf\obj\Debug\test-wpf_MarkupCompile.cache
+C:\Projects\C#\two-sem\test-wpf\test-wpf\obj\Debug\test-wpf_MarkupCompile.lref
+C:\Projects\C#\two-sem\test-wpf\test-wpf\obj\Debug\MainWindow.baml
+C:\Projects\C#\two-sem\test-wpf\test-wpf\obj\Debug\test-wpf.g.resources
+C:\Projects\C#\two-sem\test-wpf\test-wpf\obj\Debug\test_wpf.Properties.Resources.resources
+C:\Projects\C#\two-sem\test-wpf\test-wpf\obj\Debug\test-wpf.csproj.GenerateResource.cache
+C:\Projects\C#\two-sem\test-wpf\test-wpf\obj\Debug\test-wpf.csproj.CoreCompileInputs.cache
+C:\Projects\C#\two-sem\test-wpf\test-wpf\obj\Debug\test-wpf.exe
+C:\Projects\C#\two-sem\test-wpf\test-wpf\obj\Debug\test-wpf.pdb
+C:\Users\38098\OneDrive\Рабочий стол\lab-1(WPF)\test-wpf\bin\Debug\test-wpf.exe.config
+C:\Users\38098\OneDrive\Рабочий стол\lab-1(WPF)\test-wpf\bin\Debug\test-wpf.exe
+C:\Users\38098\OneDrive\Рабочий стол\lab-1(WPF)\test-wpf\bin\Debug\test-wpf.pdb
+C:\Users\38098\OneDrive\Рабочий стол\lab-1(WPF)\test-wpf\obj\Debug\test-wpf.csprojAssemblyReference.cache
+C:\Users\38098\OneDrive\Рабочий стол\lab-1(WPF)\test-wpf\obj\Debug\MainWindow.g.cs
+C:\Users\38098\OneDrive\Рабочий стол\lab-1(WPF)\test-wpf\obj\Debug\App.g.cs
+C:\Users\38098\OneDrive\Рабочий стол\lab-1(WPF)\test-wpf\obj\Debug\test-wpf_MarkupCompile.cache
+C:\Users\38098\OneDrive\Рабочий стол\lab-1(WPF)\test-wpf\obj\Debug\test-wpf_MarkupCompile.lref
+C:\Users\38098\OneDrive\Рабочий стол\lab-1(WPF)\test-wpf\obj\Debug\MainWindow.baml
+C:\Users\38098\OneDrive\Рабочий стол\lab-1(WPF)\test-wpf\obj\Debug\test-wpf.g.resources
+C:\Users\38098\OneDrive\Рабочий стол\lab-1(WPF)\test-wpf\obj\Debug\test_wpf.Properties.Resources.resources
+C:\Users\38098\OneDrive\Рабочий стол\lab-1(WPF)\test-wpf\obj\Debug\test-wpf.csproj.GenerateResource.cache
+C:\Users\38098\OneDrive\Рабочий стол\lab-1(WPF)\test-wpf\obj\Debug\test-wpf.csproj.CoreCompileInputs.cache
+C:\Users\38098\OneDrive\Рабочий стол\lab-1(WPF)\test-wpf\obj\Debug\test-wpf.exe
+C:\Users\38098\OneDrive\Рабочий стол\lab-1(WPF)\test-wpf\obj\Debug\test-wpf.pdb
