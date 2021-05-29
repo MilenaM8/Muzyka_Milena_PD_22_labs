@@ -1,0 +1,44 @@
+﻿<Window x:Class="lab_2__WPF_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab_2__WPF_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="309" Width="605" MaxHeight="309" MaxWidth="605" MinHeight="309" MinWidth="605">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Вкладка 1" x:Name="tabItem">
+                <Grid>
+                    <TextBox Height="23" Margin="13,37,432,181" x:Name="textBox"/>
+                    <Button Content="Добавить" Width="80" Height="25" Margin="236,35,251,181" Click="Button_Click"/>
+                    <Button Content="Удалить" Width="80" Height="25" Margin="419,35,68,181" Click="Button_Click_1"/>
+                    <ComboBox Height="23" Margin="13,115,432,103" x:Name="comboBox"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Вкладка 2" x:Name="tabItem2">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="2*" />
+                        <RowDefinition Height="1*"/>
+                    </Grid.RowDefinitions>
+                    <Grid x:Name="gridForButtons">
+                        <Grid.RowDefinitions>
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                            <ColumnDefinition />
+                            <ColumnDefinition />
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                    </Grid>
+                    <TextBox Height="25" Margin="216,33,212,25" x:Name="textBox2" Background="LightGreen" Grid.Row="1" TextAlignment="Center" FontWeight="Bold"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
