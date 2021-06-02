@@ -1,0 +1,15 @@
+C:\Projects\C#\two-sem\lab-9(WPF)\lab-9(WPF)\bin\Debug\lab-9(WPF).exe.config
+C:\Projects\C#\two-sem\lab-9(WPF)\lab-9(WPF)\bin\Debug\lab-9(WPF).exe
+C:\Projects\C#\two-sem\lab-9(WPF)\lab-9(WPF)\bin\Debug\lab-9(WPF).pdb
+C:\Projects\C#\two-sem\lab-9(WPF)\lab-9(WPF)\obj\Debug\lab-9(WPF).csprojAssemblyReference.cache
+C:\Projects\C#\two-sem\lab-9(WPF)\lab-9(WPF)\obj\Debug\MainWindow.g.cs
+C:\Projects\C#\two-sem\lab-9(WPF)\lab-9(WPF)\obj\Debug\App.g.cs
+C:\Projects\C#\two-sem\lab-9(WPF)\lab-9(WPF)\obj\Debug\lab-9(WPF)_MarkupCompile.cache
+C:\Projects\C#\two-sem\lab-9(WPF)\lab-9(WPF)\obj\Debug\lab-9(WPF)_MarkupCompile.lref
+C:\Projects\C#\two-sem\lab-9(WPF)\lab-9(WPF)\obj\Debug\MainWindow.baml
+C:\Projects\C#\two-sem\lab-9(WPF)\lab-9(WPF)\obj\Debug\lab-9(WPF).g.resources
+C:\Projects\C#\two-sem\lab-9(WPF)\lab-9(WPF)\obj\Debug\lab_9_WPF_.Properties.Resources.resources
+C:\Projects\C#\two-sem\lab-9(WPF)\lab-9(WPF)\obj\Debug\lab-9(WPF).csproj.GenerateResource.cache
+C:\Projects\C#\two-sem\lab-9(WPF)\lab-9(WPF)\obj\Debug\lab-9(WPF).csproj.CoreCompileInputs.cache
+C:\Projects\C#\two-sem\lab-9(WPF)\lab-9(WPF)\obj\Debug\lab-9(WPF).exe
+C:\Projects\C#\two-sem\lab-9(WPF)\lab-9(WPF)\obj\Debug\lab-9(WPF).pdb
